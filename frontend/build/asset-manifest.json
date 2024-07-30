@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ic_engineering/static/css/main.3bf12ac9.css",
+    "main.js": "/ic_engineering/static/js/main.7ed3a89f.js",
+    "static/media/description.jpg": "/ic_engineering/static/media/description.3c0c4f3f218ab98e0f54.jpg",
+    "static/media/banner.jpg": "/ic_engineering/static/media/banner.d357c48fa6043c824137.jpg",
+    "static/media/project management.jpg": "/ic_engineering/static/media/project management.3795f326f30567ba4fd9.jpg",
+    "static/media/contactImg.jpg": "/ic_engineering/static/media/contactImg.2d46079db1ea2320033c.jpg",
+    "static/media/about1.jpg": "/ic_engineering/static/media/about1.948195d12a739085f479.jpg",
+    "static/media/modifications.jpg": "/ic_engineering/static/media/modifications.4e8bd797aba28da254f9.jpg",
+    "static/media/pic.jpg": "/ic_engineering/static/media/pic.c23f44dc811701609c25.jpg",
+    "static/media/real estate2.jpg": "/ic_engineering/static/media/real estate2.fb766332c69bb4b71540.jpg",
+    "static/media/khaled.jpg": "/ic_engineering/static/media/khaled.30dc92884cd1375c0948.jpg",
+    "static/media/structural design.jpg": "/ic_engineering/static/media/structural design.b27d84a262ef4f921dcc.jpg",
+    "static/media/contact.jpg": "/ic_engineering/static/media/contact.0f0f92c152b6af6e0184.jpg",
+    "static/media/real estate.jpg": "/ic_engineering/static/media/real estate.cd051228a78984c63325.jpg",
+    "static/media/favicon.png": "/ic_engineering/static/media/favicon.d0a3cbca4e91da1c050f.png",
+    "static/media/IC Engineering Content.pdf": "/ic_engineering/static/media/IC Engineering Content.670a9fba37b081de4ceb.pdf",
+    "index.html": "/ic_engineering/index.html",
+    "main.3bf12ac9.css.map": "/ic_engineering/static/css/main.3bf12ac9.css.map",
+    "main.7ed3a89f.js.map": "/ic_engineering/static/js/main.7ed3a89f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf12ac9.css",
+    "static/js/main.7ed3a89f.js"
+  ]
+}
